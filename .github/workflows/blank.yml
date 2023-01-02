@@ -20,3 +20,4 @@ jobs:
             git stash
             git pull
             rm -rf __old
+            rm -rf /var/cache/AIRCache/images/branding/*
