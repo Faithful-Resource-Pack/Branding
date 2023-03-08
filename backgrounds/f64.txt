@@ -1,0 +1,18 @@
+seed: 14000003
+version: 1.19.2
+FOV: 30
+time: 12000
+Shader: Complementary Reimagined r2.0.1
+/execute in minecraft:overworld run tp @s 2398.14 76.78 -6589.80 570.65 -1.81
+
+---
+
+list of blocks:
+terracotta
+sandstone
+cut_sandstone
+chiseled_sandstone
+dead_bush
+red_sand
+grass_block
+dirt

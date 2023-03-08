@@ -1,0 +1,30 @@
+seed: 14000003
+version: 1.19.2
+FOV: 50
+time: 9500
+shader: Complementary Reimagined r2.0.1
+cloud heights: 224, 308
+/execute in minecraft:overworld run tp @s 14572.38 107.36 1113.43 -133.85 -24.15
+
+---
+
+list of blocks:
+grass_block
+grass_block [snowy]
+dirt
+stone
+grass
+oak_log
+oak_leaves
+birch_log
+birch_leaves
+spruce_log
+spruce_leaves
+poppy
+powder_snow
+snow
+water
+iron_ore
+coal_ore
+emerald_ore
+oxeye_daisy
