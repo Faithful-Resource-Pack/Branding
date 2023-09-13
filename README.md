@@ -11,9 +11,9 @@
 ---
 
 ## License:
-Most of the assets here are licensed under the [Faithful License](https://faithfulpack.net/license).
+Most of the assets here are licensed under the [Faithful License](https://faithfulpack.net/license). The Faithful 32x font is licensed under the [Open Font License](https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web).
 
-The Faithful 32x font is licensed under the [Open Font License](https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web).
+Additionally, check out our [branding guidelines](https://docs.faithfulpack.net/pages/manuals/branding-guidelines) for general branding dos and don'ts.
 
 ## How to download:
 <img src="https://user-images.githubusercontent.com/75297863/163903656-b32b9686-c147-469b-bb3f-808ab6d6bc36.png" align="center" height="384px">
