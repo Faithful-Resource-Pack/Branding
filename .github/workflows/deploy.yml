@@ -14,7 +14,7 @@ jobs:
           host: ${{ secrets.HOST }}
           USERNAME: ${{ secrets.USERNAME }}
           PORT: ${{ secrets.PORT }}
-          PASSWORD: ${{ secrets.SSH }}
+          KEY: ${{ secrets.SSH }}
           script: |
             cd "/var/www/html/database.faithfulpack.net/images/branding"
             git stash
