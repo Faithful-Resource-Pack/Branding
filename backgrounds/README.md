@@ -1,0 +1,82 @@
+# How to regenerate these images:
+
+## Main
+- Seed: -7687338550060481889
+- Position: /execute in minecraft:overworld run tp @s -2707.50 124.50 958.50
+
+## F32
+- Seed: -1149654646306923907
+- Position: /execute in minecraft:overworld run tp @s 1422.44 104.89 591.28 126.57 -22.37
+
+## F64
+- Seed: 4761297895410309292
+- Position: /execute in minecraft:overworld run tp @s 1539.60 98.83 1362.02 -35.12 -35.03
+
+## CF32
+Unknown
+
+## CF32J
+- Seed: 2151901553968352745 (Generated in Minecraft b1.7.3)
+- Position: /execute in minecraft:overworld run tp @s 64.50 64.00 -55.50 130.00 -30.00
+- FOV 50
+
+## CF64
+- Seed: 3257840388504953787 (Generated in Minecraft a1.2.2)
+- Position: /execute in minecraft:overworld run tp @s 220.51 69.00 59504.51 -10.97 -19.67
+
+## CF64J
+- Seed: 767
+- Position: /execute in minecraft:overworld run tp @s 91.78 62.89 -1.90 -139.78 -19.86
+
+
+## Settings
+
+Shader (for all except CF32 and the main images): ComplementaryReimagined_r5.3
+Complementary Configuration:
+```toml
+#Mon Dec 30 00:48:24 CET 2024
+AMBIENT_MULT=150
+ANISOTROPIC_FILTER=8
+AURORA_CONDITION=0
+BLOCKLIGHT_FLICKERING=2
+BLOCK_REFLECT_QUALITY=2
+BLOOM_STRENGTH=0.19
+CLOUD_QUALITY=3
+CLOUD_STYLE_DEFINE=50
+COLORED_CANDLE_LIGHT=true
+COLORED_LIGHTING=128
+CONNECTED_GLASS_EFFECT=false
+DETAIL_QUALITY=3
+DISTANT_LIGHT_BOKEH=true
+ENTITY_SHADOWS_DEFINE=1
+GLOWING_ARMOR_TRIM=true
+GLOWING_ORE_MULT=2.00
+HAND_SWAYING=1
+LESS_LAVA_FOG=true
+LIGHTSHAFT_QUALI_DEFINE=4
+RAIN_PUDDLES=2
+SELECT_OUTLINE=2
+TM_WHITE_CURVE=1.5
+T_EXPOSURE=1.20
+T_LOWER_CURVE=1.40
+T_UPPER_CURVE=0.65
+T_VIBRANCE=0.90
+VIGNETTE_R=false
+WATER_ALPHA_MULT=160
+WATER_BUMPINESS=2.50
+WATER_BUMP_BIG=1.30
+WATER_BUMP_MED=0.85
+WATER_BUMP_SMALL=1.00
+WATER_CAUSTIC_STYLE_DEFINE=3
+WATER_FOAM_I=0
+WATER_REFRACTION_INTENSITY=2.4
+WATER_SIZE_MULT=160
+WATER_SPEED_MULT=1.35
+WATER_STYLE_DEFINE=3
+WAVING_LAVA=false
+WAVING_LILY_PAD=false
+WAVING_WATER_VERTEX=false
+WB_DOF_FOCUS=-1
+WB_DOF_I=1.0
+shadowDistance=128.0
+```
