@@ -2,7 +2,7 @@
 
 ## Main
 - Seed: -7687338550060481889
-- Position: /execute in minecraft:overworld run tp @s -2707.50 124.50 958.50
+- Position: /execute in minecraft:overworld run tp @s -2706.19 118.15 939.56 -122.70 42.95
 
 ## F32
 - Seed: -1149654646306923907
