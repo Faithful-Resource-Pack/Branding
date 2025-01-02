@@ -1,11 +1,11 @@
-<img src="https://github.com/Faithful-Resource-Pack/Branding/blob/main/logos/transparent/512/plain_logo.png?raw=true" alt="Faithful Branding" align="right" height="256px">
+<img src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/main_logo.png?w=256" alt="Faithful Branding" align="right" height="256px">
 <div align="center">
   <h1>Faithful Branding</h1>
   <h3>All material relating to Faithful's branding.</h3>
-
-![RepoSize](https://img.shields.io/github/repo-size/Faithful-Resource-Pack/Branding)
-![Issues](https://img.shields.io/github/issues/Faithful-Resource-Pack/Branding)
-![PullRequests](https://img.shields.io/github/issues-pr/Faithful-Resource-Pack/Branding)
+  
+  ![RepoSize](https://img.shields.io/github/repo-size/Faithful-Resource-Pack/Branding)
+  ![Issues](https://img.shields.io/github/issues/Faithful-Resource-Pack/Branding)
+  ![PullRequests](https://img.shields.io/github/issues-pr/Faithful-Resource-Pack/Branding)
 </div>
 
 ---
