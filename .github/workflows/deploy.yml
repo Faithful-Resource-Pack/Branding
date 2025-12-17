@@ -2,22 +2,23 @@ name: Deploy Branding
 
 on:
   push:
-    branches: [main]
+    branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Executing remote command
-        uses: appleboy/ssh-action@master
-        with:
-          host: ${{ secrets.VPS_HOST_IP }}
-          PORT: ${{ secrets.VPS_PORT }}
-          USERNAME: ${{ secrets.VPS_USERNAME }}
-          KEY: ${{ secrets.VPS_SSH_KEY }}
-          script: |
-            cd "/var/www/html/database.faithfulpack.net/images/branding"
-            git stash
-            git pull
-            rm -rf __old
-            rm -rf /var/cache/AIRCache/images/branding/*
+    - name: Executing remote command
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.VPS_HOST_IP }}
+        USERNAME: ${{ secrets.VPS_USERNAME }}
+        PORT: ${{ secrets.VPS_SSH_PORT }}
+        KEY: ${{ secrets.VPS_SSH_KEY }}
+        script: |
+          cd "/var/www/html/database.faithfulpack.net/images/branding"
+          git stash
+          git pull
+          rm -rf __old
+          rm -rf /var/cache/AIRCache/images/branding/*
